@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;TP7&apos;&#x0A;- Original project: &apos;TP7&apos;&#x0A;- Original elements:&#x0A;     ConstErr.java&#x0A;     Integer.java&#x0A;     Main.java&#x0A;     SumErr.java" description="Delete elements" element1="/src&lt;{Integer.java" element2="/src&lt;{Main.java" element3="/src&lt;{ConstErr.java" element4="/src&lt;{SumErr.java" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1494755426554" subPackages="false" version="1.0"/>
+</session>

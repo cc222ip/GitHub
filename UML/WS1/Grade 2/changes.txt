@@ -1,0 +1,9 @@
+In a first time, we worked on a very complicated diagram with a lot of relations and a lot of classes too. There was also some system's elements and the verbs to linked the classes were not very goods... (Imparts WS1_G2_v1.png)
+
+After that, we showed this diagram to the tutoring teacher and he said us that a domain model must be more simple and without any kind of system's elements. So, we changed our work for something very simple... Certainly too simple. (Imparts WS1_G2_v2.png)
+
+It is this diagram that we uploaded for the peer review. Indeed, the feedbacks are very bad and all the students who seen our work said it's doesn't finish at all.
+
+So, we decided to read back the lecture and the chapters consecrated at the domain model in the book. I also reviewed some works. It helped us a lot to understand how the domain model must be build.
+
+Finally, we decided to start again the domain model from the beginning to build something better. You can find our final work in PNG or HTML format. (Imparts WS1_G2_v3.png / WS1_G2_v3.html)
